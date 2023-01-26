@@ -1,0 +1,6 @@
+{
+  "aws_attributes.first_on_demand": {
+    "type": "range",
+    "minValue": 1
+  }
+}
